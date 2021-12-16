@@ -1,11 +1,22 @@
 body {
-  background-color: lightblue;
+  font-family: inter;
+  font-size: 20px;
+  color: 3c3c3b;
+}
+a:link {
+  text-decoration: none;
 }
 
-h1 {
-  color: white;
-  text-align: center;
+a:visited {
+  text-decoration: none;
 }
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
 
 p {
   font-family: inter;
