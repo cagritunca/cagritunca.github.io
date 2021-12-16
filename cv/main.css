@@ -1,20 +1,24 @@
 body {
   font-family: inter;
   font-size: 40px;
-  color: 3c3c3b;
+  color: #3c3c3b;
   text-align: center;
 }
 a:link {
   text-decoration: none;
+  color: #3c3c3b;
 }
 
 a:visited {
   text-decoration: none;
+  color: #3c3c3b;
 }
 
 a:hover {
   text-decoration: underline;
+  color: #3c3c3b;
 }
 
 a:active {
   text-decoration: underline;
+  color: #3c3c3b;
