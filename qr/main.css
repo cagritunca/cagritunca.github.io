@@ -4,6 +4,7 @@ body {
   color: #3c3c3b;
   text-align: center;
   font-weight: bold;
+  padding-top: 70px;
 }
 a:link {
   text-decoration: none;
