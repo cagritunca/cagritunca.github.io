@@ -73,7 +73,13 @@ e. Others
 	transition: 0.5s;
 }
 
-
+.overlay-content {
+  position: relative;
+  top: 25%;
+  width: 100%;
+  text-align: center;
+  margin-top: 30px;
+}
 /* ------------------------------------------------------------------
 
 /* b. Reset
